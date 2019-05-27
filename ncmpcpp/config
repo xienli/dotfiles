@@ -1,0 +1,55 @@
+##### song format #####
+## %l - length
+## %f - filename
+## %D - directory
+## %a - artist
+## %A - album artist
+## %t - title
+## %b - album
+## %y - date
+## %n - track number (01/12 -> 01)
+## %N - full track info (01/12 -> 01/12)
+## %g - genre
+## %c - composer
+## %p - performer
+## %d - disc
+## %C - comment
+## %P - priority
+## $R - begin right alignment
+##### color format #####
+## - 0 - default window color (discards all other colors)
+## - 1 - black
+## - 2 - red
+## - 3 - green
+## - 4 - yellow
+## - 5 - blue
+## - 6 - magenta
+## - 7 - cyan
+## - 8 - white
+## - 9 - end of current color
+## - b - bold text
+## - u - underline text
+## - r - reverse colors
+## - a - use alternative character set
+
+visualizer_fifo_path = /tmp/mpd.fifo
+visualizer_output_name = my_fifo
+visualizer_in_stereo = no
+visualizer_look = ∙▋
+visualizer_color = red
+progressbar_look = ─∙∙
+progressbar_color = black
+song_status_format =  {%a - %t} 
+#main_window_highlight_color = white
+song_columns_list_format = (2)[]{}(48)[blue]{t}(46)[white]{a}(4)[blue]{l}
+alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
+alternative_header_second_line_format = {$5%a$9}{ - $5%b$9}{ ($4%y$9)}
+header_visibility = no
+statusbar_visibility = yes
+playlist_display_mode = columns
+user_interface = alternative
+autocenter_mode = yes
+titles_visibility = no
+enable_window_title = no
+message_delay_time = 1
+playlist_disable_highlight_delay = 5

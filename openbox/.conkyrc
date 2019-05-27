@@ -1,0 +1,32 @@
+use_xft yes
+xftfont Nimbus Sans Light:pixelsize=12
+xftalpha 0.8
+text_buffer_size 2048
+uppercase yes
+update_interval 1
+total_run_times 0
+own_window yes
+own_window_transparent yes
+own_window_type desktop
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+minimum_size 320 320
+
+draw_shades no
+draw_outline no
+draw_borders no
+
+alignment bottom_right
+gap_x 5
+gap_y 470
+imlib_cache_size 0
+default_color C8D6EB
+
+TEXT
+${voffset 10}${offset 100}${font Open Sans Light:size=15}System Info ${font}
+${voffset 10}${offset 20}Kernel ${alignr 23}${kernel}
+${voffset 10}${offset 20}Uptime ${alignr 23}${uptime}
+${voffset 10}${offset 20}CPU    ${alignr 23}${cpu}%
+${voffset 10}${offset 20}RAM    ${alignr 23}${memperc}%
+${voffset 10}${offset 20}Time   ${alignr 23}${time %I:%M%p}
+${voffset 10}${offset 20}Day    ${alignr 23}${time %A, %d %B}

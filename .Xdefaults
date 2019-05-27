@@ -1,0 +1,54 @@
+! special
+*.foreground:   #FDFDFD
+*.background:   #1C1F26
+*.cursorColor:  #FDFDFD
+
+! black
+*.color0:       #1C1F26
+*.color8:       #1C1F26
+
+! red
+*.color1:       #E7757A
+*.color9:       #E7757A
+
+! green
+*.color2:       #8FE273
+*.color10:      #8FE273
+
+! yellow
+*.color3:       #E7E575
+*.color11:      #E7E575
+
+! blue
+*.color4:       #759CE7
+*.color12:      #759CE7
+
+! magenta
+*.color5:       #E775D9
+*.color13:      #E775D9
+
+! cyan
+*.color6:       #9CFBFE
+*.color14:      #9CFBFE
+
+! white
+*.color7:       #FDFDFD
+*.color15:      #FDFDFD
+
+URxvt*loginShell: true
+URxvt*scrollBar: false
+URxvt*internalBorder: 25
+URxvt*font: xft:Inconsolata for Powerline:size=9
+URxvt*boldFont: xft:Inconsolata for Powerline:size=9
+URxvt.perl-ext-common: default,matcher,tabbedex
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+URxvt.tabbed.new-button: false
+URxvt.tabbed.title: false
+URxvt.tabbed.autohide: true
+URxvt.tabbed.tabbar-bg: 7
+URxvt.tabbed.tab-fg: 7
+URxvt.tabbed.tabbar-fg: 0
+URxvt.tabbed.tab-bg: 0
+URxvt*iconFile: /usr/share/icons/Numix-Circle/scalable/apps/utilities-terminal.svg
+URxvt*geometry: 70x20

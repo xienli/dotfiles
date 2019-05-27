@@ -1,0 +1,53 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:fifo
+state: pause
+current: 9
+time: 134.811000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:my_edit/11.mp3
+1:my_edit/12.mp3
+2:my_edit/13.mp3
+3:my_edit/op.mp3
+4:my_edit/こぴ - いいんですか？.mp3
+5:my_edit/七穂 - LOSER.mp3
+6:my_edit/未来 - 紅蓮の弓矢.mp3
+7:my_edit/杏沙子 - 小さな恋のうた.mp3
+8:Amazarashi - Kisetsu wa Tsugitsugi Shindeiku.mp3
+9:Co shu Nie - asphyxia.mp3
+10:fripSide - LEVEL5 Judgelight.mp3
+11:fripSide - Only My Railgun.mp3
+12:Hikasa Youko - Utsukushiki Zankoku na Sekai.mp3
+13:Horie Yui - Golden Time.mp3
+14:Horie Yui - Sweet & Sweet CHERRY.mp3
+15:Horie Yui - The World's End.mp3
+16:Horie Yui - 半永久的に愛してよ♡.mp3
+17:Kalafina - heavenly blue.mp3
+18:osterreich - Munou.mp3
+19:österreich - Rakuen no Kimi.mp3
+20:People In The Box - The Saints.mp3
+21:Reol - No Title.mp3
+22:SawanoHiroyuki[nZk] - &Z.mp3
+23:SawanoHiroyuki[nZk] - A.Z.mp3
+24:SawanoHiroyuki[nZk] - aLIEz.mp3
+25:SawanoHiroyuki[nZk] - gravityWall.mp3
+26:SawanoHiroyuki[nZk] - Keep on keeping on.mp3
+27:SawanoHiroyuki[nZk] - oldToday.mp3
+28:SawanoHiroyuki[nZk] - sh0ut.mp3
+29:TK from Ling tosite sigure - katharsis.mp3
+30:TK from Ling tosite sigure - unravel.mp3
+31:Yuna_(CV_Sayaka_Kanda)_-_Break_Beat_Bark_.mp3
+32:Yuna_(CV_Sayaka_Kanda)_-_delete.mp3
+33:Yuna_(CV_Sayaka_Kanda)_-_longing.mp3
+34:Yuna_(CV_Sayaka_Kanda)_-_smile_for_you.mp3
+35:Yuna_(CV_Sayaka_Kanda)_-_Ubiquitous_dB.mp3
+36:Ziyoou vachi - HALF.mp3
+37:Harutya - Pretender.mp3
+playlist_end
