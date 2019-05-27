@@ -22,3 +22,5 @@ echo "Don't forget to run these commands before building, or make sure the pytho
 echo "
 virtualenv2 venv
 source venv/bin/activate"
+echo " or u can change path python with new sysmlink u can check on this for detail"
+echo " https://wiki.archlinux.org/index.php/Python#Installation"
