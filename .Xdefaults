@@ -50,5 +50,5 @@ URxvt.tabbed.tabbar-bg: 7
 URxvt.tabbed.tab-fg: 7
 URxvt.tabbed.tabbar-fg: 0
 URxvt.tabbed.tab-bg: 0
-URxvt*iconFile: /usr/share/icons/Numix-Circle/scalable/apps/utilities-terminal.svg
+URxvt*iconFile: /usr/share/icons/Papirus/32x32/apps/terminal.svg
 URxvt*geometry: 70x20
